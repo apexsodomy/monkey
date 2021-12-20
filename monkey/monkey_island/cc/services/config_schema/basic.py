@@ -27,6 +27,7 @@ BASIC = {
                         "MSSQLExploiter",
                         "DrupalExploiter",
                         "PowerShellExploiter",
+                        "Log4jExploiter",
                     ],
                 }
             },
